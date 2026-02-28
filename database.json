@@ -1,0 +1,17 @@
+{
+  "warnings": {},
+  "points": {},
+  "levels": {},
+  "settings": {
+    "antiLink": true,
+    "antiSpam": true,
+    "welcome": true,
+    "goodbye": true,
+    "autoAdminMention": true,
+    "rules": true
+  },
+  "store": {
+    "currency": {},
+    "tasks": {}
+  }
+}
