@@ -1,0 +1,11 @@
+{
+  "name": "ultimate-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "fs-extra": "^11.2.0",
+    "axios": "^1.7.0"
+  }
+}
